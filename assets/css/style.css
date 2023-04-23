@@ -184,5 +184,8 @@ footer img:hover {
   p{
     margin: 1px !important;
   }
-  
+}
+
+.contact a{
+  text-decoration: none;
 }
